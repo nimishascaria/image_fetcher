@@ -18,6 +18,7 @@ GEM
       timers (>= 4.1.1)
     celluloid-supervision (0.20.6)
       timers (>= 4.1.1)
+    minitest (5.14.0)
     timers (4.3.0)
 
 PLATFORMS
@@ -25,6 +26,7 @@ PLATFORMS
 
 DEPENDENCIES
   celluloid
+  minitest
 
 BUNDLED WITH
    2.1.4
